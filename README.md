@@ -54,7 +54,7 @@ dataset = load_dataset("kyujinpy/OpenOrca-KO") # But currently, private repo. Pl
 > We will change private to public. Wait!!
      
 # References
-[🐳OpenOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca) 
+[🐳OpenOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca)  
 [Kopen-Platypus🥮](https://huggingface.co/datasets/kyujinpy/KOpen-platypus)   
 [🐳OpenOrca-KO](https://huggingface.co/datasets/kyujinpy/OpenOrca-KO)  
 [Platypus](https://github.com/arielnlee/Platypus)  
