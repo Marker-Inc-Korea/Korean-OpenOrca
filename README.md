@@ -15,7 +15,7 @@
 # Model BenchMark(KO-LLM)  
 | Model | Average | Ko-ARC | Ko-HellaSwag | Ko-MMLU | Ko-TruthfulQA | Ko-CommonGen V2 | Dataset | Base_model |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| [🐳Korean-OpenOrca-13B](https://huggingface.co/kyujinpy/Korean-OpenOrca-13B) | NaN | NaN | NaN | NaN | NaN | NaN | [🐳OpenOrca-KO(private)](https://huggingface.co/kyujinpy/Korean-OpenOrca-13B) | ko-en-llama2-13b |  
+| [🐳Korean-OpenOrca-13B](https://huggingface.co/kyujinpy/Korean-OpenOrca-13B) | NaN | NaN | NaN | NaN | NaN | NaN | [🐳OpenOrca-KO](https://huggingface.co/kyujinpy/Korean-OpenOrca-13B) | ko-en-llama2-13b |  
 | [KoT-Platypus2-13B](https://huggingface.co/kyujinpy/KoT-platypus2-13B) | 49.55 | 43.69 | 53.05 | 42.29 | 43.34 | 65.38 | [KoCoT](https://huggingface.co/datasets/kyujinpy/KoCoT_2000) | KO-platypus2-13B | 
 | [KO-platypus2-13B](https://huggingface.co/kyujinpy/KO-Platypus2-13B) | 47.90 | 44.20 | 54.31 | 42.47 | 44.41 | 54.11 | [KOpen-platyus](https://huggingface.co/datasets/kyujinpy/KOpen-platypus) | ko-en-llama2-13b |  
   
