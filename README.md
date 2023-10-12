@@ -51,7 +51,7 @@ from datasets import load_dataset
 dataset = load_dataset("kyujinpy/OpenOrca-KO") # But currently, private repo. Please wait!
 ```  
 **🐳OpenOrca-KO:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/datasets/kyujinpy/OpenOrca-KO)    
-> We will change private to public. Wait!!
+> It is public state!
      
 # References
 [🐳OpenOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca)  
