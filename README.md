@@ -23,7 +23,7 @@
 # News
 - 2023.10.09
    - Llama2-13B를 OpenOrca-KO를 활용하여 fine-tuning한 [🐳Korean-OpenOrca-13B](https://huggingface.co/kyujinpy/Korean-OpenOrca-13B) Model 제작 완료.  
-   - [HuggingFace KO-LLM 리더보드](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard) 등록 중...
+   - [HuggingFace KO-LLM 리더보드](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard) 3등 달성.
 
    
 # Quick start
@@ -65,6 +65,7 @@ dataset = load_dataset("kyujinpy/OpenOrca-KO") # But currently, private repo. Pl
 # TODO
 - [x] Make KOR-OpenOrca
 - [x] Share huggingface repo
-- [ ] Combined platypus+OpenOrca datasets
+- [x] Combined platypus+OpenOrca datasets
 - [ ] Make KOR-OpenOrca-Platypus
-- [ ] Share evaluation results  
+- [ ] Share evaluation results
+- [ ] Share datasets
