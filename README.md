@@ -23,7 +23,8 @@
 
 # News
 - 2023.10.14
-   - 
+   - Llama2-13B를 KOR-Orca-Platypus 데이터셋을 활용하여 fine-tuning한 [🐳KoR-Orca-Platypus-13B](https://huggingface.co/kyujinpy/KoR-Orca-Platypus-13B) Model 제작 완료.
+   - HuggingFace KO-LLM 리더보드에 올릴 예정...
 
 - 2023.10.09
    - Llama2-13B를 OpenOrca-KO를 활용하여 fine-tuning한 [🐳Korean-OpenOrca-13B](https://huggingface.co/kyujinpy/Korean-OpenOrca-13B) Model 제작 완료.  
