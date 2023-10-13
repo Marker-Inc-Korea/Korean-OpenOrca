@@ -15,12 +15,16 @@
 # Model BenchMark(KO-LLM)  
 | Model | Average | Ko-ARC | Ko-HellaSwag | Ko-MMLU | Ko-TruthfulQA | Ko-CommonGen V2 | Dataset | Base_model |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
+| [🐳KoR-Orca-Platypus-13B](https://huggingface.co/kyujinpy/KoR-Orca-Platypus-13B) | NaN | NaN | NaN | NaN | NaN | NaN | [KOR-OpenOrca-Platypus](https://huggingface.co/datasets/kyujinpy/KOR-OpenOrca-Platypus) | ko-en-llama2-13b |
 | [🐳Korean-OpenOrca-13B](https://huggingface.co/kyujinpy/Korean-OpenOrca-13B) | 47.85 | 43.09 | 54.13 | 40.24 | 45.22 | 56.57 | [🐳OpenOrca-KO](https://huggingface.co/kyujinpy/Korean-OpenOrca-13B) | ko-en-llama2-13b |  
 | [KoT-Platypus2-13B](https://huggingface.co/kyujinpy/KoT-platypus2-13B) | 49.55 | 43.69 | 53.05 | 42.29 | 43.34 | 65.38 | [KoCoT](https://huggingface.co/datasets/kyujinpy/KoCoT_2000) | KO-platypus2-13B | 
 | [KO-platypus2-13B](https://huggingface.co/kyujinpy/KO-Platypus2-13B) | 47.90 | 44.20 | 54.31 | 42.47 | 44.41 | 54.11 | [KOpen-platyus](https://huggingface.co/datasets/kyujinpy/KOpen-platypus) | ko-en-llama2-13b |  
   
 
 # News
+- 2023.10.14
+   - 
+
 - 2023.10.09
    - Llama2-13B를 OpenOrca-KO를 활용하여 fine-tuning한 [🐳Korean-OpenOrca-13B](https://huggingface.co/kyujinpy/Korean-OpenOrca-13B) Model 제작 완료.  
    - [HuggingFace KO-LLM 리더보드](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard) 4등(~~3등~~) 달성.
