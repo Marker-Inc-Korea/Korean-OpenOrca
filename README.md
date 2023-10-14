@@ -72,6 +72,6 @@ dataset = load_dataset("kyujinpy/OpenOrca-KO") # But currently, private repo. Pl
 - [x] Make KOR-OpenOrca
 - [x] Share huggingface repo
 - [x] Combined platypus+OpenOrca datasets
-- [ ] Make KOR-OpenOrca-Platypus
-- [ ] Share evaluation results
+- [x] Make KOR-OpenOrca-Platypus
+- [x] Share evaluation results
 - [x] Share datasets
